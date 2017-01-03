@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BG</key>
+	<dict>
+		<key>NORMAL</key>
+		<string>255, 255, 255</string>
+		<key>NIGHT</key>
+		<string>52, 52, 52</string>
+	</dict>
+	<key>SEP</key>
+	<dict>
+		<key>NORMAL</key>
+		<string>170, 170, 170</string>
+		<key>NIGHT</key>
+		<string>49, 49, 49</string>
+	</dict>
+	<key>TINT</key>
+	<dict>
+		<key>NORMAL</key>
+		<string>0, 0, 255</string>
+		<key>NIGHT</key>
+		<string>255, 255, 255</string>
+	</dict>
+	<key>TEXT</key>
+	<dict>
+		<key>NORMAL</key>
+		<string>0, 0, 0</string>
+		<key>NIGHT</key>
+		<string>255, 255, 255</string>
+	</dict>
+	<key>BAR</key>
+	<dict>
+		<key>NORMAL</key>
+		<string>255, 255, 255</string>
+		<key>NIGHT</key>
+		<string>68, 68, 68</string>
+	</dict>
+</dict>
+</plist>

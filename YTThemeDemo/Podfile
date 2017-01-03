@@ -1,0 +1,13 @@
+# 最低支持 iOS 版本
+platform:ios, '7.0'
+# 抑制任何警告
+inhibit_all_warnings!
+
+def shared_pods
+    # 图片异步
+    pod 'SDWebImage', '~> 3.8.2'
+end
+
+target 'YTThemeDemo' do
+    shared_pods
+end
